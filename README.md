@@ -13,3 +13,6 @@ A simple windows .bat script to disable and enable apps on Google's WearOS. This
 - [ ] List installed packages in different groups (System, User, Disabled, Enabled)
 - [ ] Have the option to batch uninstall user apps
 - [ ] be able to install individual/batch apps
+
+<h2>Support development ❤️</h2>
+<a href="https://www.buymeacoffee.com/jordanej20o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
